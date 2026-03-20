@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Hide the theme header showing repository/user name */
+body > .container-lg > header {
+  display: none;
+}
