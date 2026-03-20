@@ -30,9 +30,9 @@ Das Handbuch enthält unter anderem:
 ## Hinweise
 
 - Die Dokumentation wird laufend aktualisiert.
-- Fuer einzelne Funktionen koennen je nach Version Unterschiede bestehen.
-- Fuer die Nutzung der TWK-App werden AxisVM und eine gueltige TWK-Lizenz benoetigt.
+- Für einzelne Funktionen können je nach Version Unterschiede bestehen.
+- Für die Nutzung der TWK-App werden AxisVM und eine gültige TWK-Lizenz benötigt.
 
 ## Kontakt
 
-Bei Fragen oder Problemen bitte das zustaendige Support-Team kontaktieren.
+Bei Fragen oder Problemen bitte das zuständige Support-Team kontaktieren.
