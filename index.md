@@ -4,7 +4,7 @@ Willkommen zur offiziellen Dokumentationsseite der TWK-App.
 
 ## Benutzerhandbuch
 
-- [Zum TWK Benutzerhandbuch](https://setoria.github.io/twk_app-releases/benutzerhandbuch/00_Uebersicht.html)
+- [Zum TWK Benutzerhandbuch](https://setoria.github.io/benutzerhandbuch/00_Uebersicht.html)
 
 ## Releases
 
