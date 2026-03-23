@@ -8,4 +8,4 @@ Willkommen zur offiziellen Dokumentationsseite der TWK-App.
 
 ## Releases
 
-- [TWK Releases auf GitHub](https://github.com/setoria/twk_app-releases/releases)
+- [TWK Releases auf GitHub](https://github.com/Ingware/TWK-Releases/releases)

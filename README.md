@@ -12,7 +12,7 @@ Das Benutzerhandbuch ist hier verfügbar:
 
 Aktuelle Versionen und Downloads:
 
-- [TWK Releases auf GitHub](https://github.com/setoria/twk_app-releases/releases)
+- [TWK Releases auf GitHub](https://github.com/Ingware/TWK-Releases/releases)
 
 ## Inhalt
 
