@@ -6,7 +6,7 @@ Offizielle Dokumentationsseite zur TWK-App.
 
 Das Benutzerhandbuch ist hier verfügbar:
 
-- [TWK Benutzerhandbuch](https://setoria.github.io/twk_app-releases/benutzerhandbuch/00_Uebersicht.html)
+- [TWK Benutzerhandbuch](https://ingware.github.io/docs/benutzerhandbuch/00_Uebersicht.html)
 
 ## Releases
 
